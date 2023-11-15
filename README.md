@@ -1,6 +1,6 @@
 # python-eda-project
 
-스마트 치안 빅데이터 플랫폼 데이터를 활용한 금융사기 예방 방안 도출(https://www.bigdata-policing.kr/)
+[스마트 치안 빅데이터 플랫폼](https://www.bigdata-policing.kr/) 데이터를 활용한 금융사기 예방 방안 도출
 ### 📆 개발 기간
 - 23.10.25 ~ 23.10.31
 
