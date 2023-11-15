@@ -7,19 +7,10 @@
 - 23.11.06 ~ 23.11.14
 
 ### ⚙️ 개발 환경
-- python 3.8.10
-- poetry 1.6.1
-- IDE: VSCODE
+- Python
+- IDE: VSCODE, Jupyter Notebook
 
-### 주요 기능
-- Open Weather Api를 이용해 날씨 정보 받아오기
-- Google Cloud Platform Cloud Speech API 사용해서 음성 인식하기
-- 스크래핑을 통한 최근 뉴스 정보 가져와서 슬랙에 보내기
-- 번역
-
-### Installation
-```
-  $ git clone https://github.com/ch-hee/python-project.git
-  $ poetry init
-  $ poetry install
-```
+### 🏴 팀 소개 및 주요 역할
+- 김창희 : 금융사기 유형 분석
+- 진성준 : 지역별 금융사기 피해자 분석
+- 박성우 : 성별, 연령대별 금융사기 피해금액 분석
